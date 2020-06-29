@@ -19,9 +19,9 @@ namespace NLayer.Consola
             {
                 PrestamoServicio servicio = new PrestamoServicio();
 
-                int cod = servicio.SacarPrestamo("Prestamo Subsidiado", 25.5, 3, 8);
+                int id = servicio.SacarPrestamo("Prestamo Subsidiado", 25.5, 3, 8);
 
-                Console.WriteLine("Se ha insertado el cliente nro " + cod.ToString());
+                Console.WriteLine("Prestamo id: " + id.ToString());
                 /*
                 TipoPrestamoServicio servicio = new TipoPrestamoServicio();
 
