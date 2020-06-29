@@ -1,0 +1,7 @@
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Entidades\bin\Debug\NLayer.Entidades.dll.config
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Entidades\bin\Debug\NLayer.Entidades.dll
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Entidades\bin\Debug\NLayer.Entidades.pdb
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Entidades\obj\Debug\NLayer.Entidades.csprojAssemblyReference.cache
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Entidades\obj\Debug\NLayer.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Entidades\obj\Debug\NLayer.Entidades.dll
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Entidades\obj\Debug\NLayer.Entidades.pdb

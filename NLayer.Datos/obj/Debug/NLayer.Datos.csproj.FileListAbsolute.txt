@@ -1,0 +1,13 @@
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\bin\Debug\NLayer.Datos.dll.config
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\bin\Debug\NLayer.Datos.dll
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\bin\Debug\NLayer.Datos.pdb
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\bin\Debug\NLayer.Entidades.dll
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\bin\Debug\NLayer.Entidades.pdb
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\bin\Debug\NLayer.Entidades.dll.config
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\obj\Debug\NLayer.Datos.csprojAssemblyReference.cache
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\obj\Debug\NLayer.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\obj\Debug\NLayer.Datos.csproj.CopyComplete
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\obj\Debug\NLayer.Datos.dll
+C:\Users\Graciela\Documents\GitHub\NLayer\NLayer.Datos\obj\Debug\NLayer.Datos.pdb
