@@ -15,7 +15,7 @@ namespace NLayer.Datos
         
         public Prestamo Traer(int registro)
         {
-            string json2 = WebHelper.Get("/api?/v1?/prestamo/" + registro);
+            string json2 = WebHelper.Get("/api/v1/prestamo/" + registro);
             Prestamo resultado = Map(json2);
             return resultado;
         }

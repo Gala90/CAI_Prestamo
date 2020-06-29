@@ -49,7 +49,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConsolaHelper.cs" />
     <Compile Include="PrestamoMapper.cs" />
     <Compile Include="TipoPrestamoMapper.cs" />
     <Compile Include="WebHelper.cs" />
