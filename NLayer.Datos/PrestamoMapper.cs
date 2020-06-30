@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Newtonsoft.Json;
 using NLayer.Entidades;
 using System.Collections.Specialized;
 using System.Configuration;
+using Newtonsoft.Json;
 
 namespace NLayer.Datos
 {

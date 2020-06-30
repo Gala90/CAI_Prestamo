@@ -8,11 +8,11 @@ using NLayer.Entidades;
 
 namespace NLayer.Negocio
 {
-    public class TipoPrestamoServicio
+    public class TipoPrestamoNegocio
     {
         private TipoPrestamoMapper mapper;
 
-        public TipoPrestamoServicio()
+        public TipoPrestamoNegocio()
         {
             mapper = new TipoPrestamoMapper();
         }

@@ -13,27 +13,38 @@ using System.Windows.Forms;
 namespace NLayerFormulario1
 {
     public partial class Form1 : Form
-    {
+    {        
 
-        TipoPrestamoServicio servicio = new TipoPrestamoServicio();
+        private TipoPrestamoNegocio _tipos;
+        
 
-        public Form1()
+        public Form1(TipoPrestamoNegocio tp)
         {
+            this._tipos = tp;
             InitializeComponent();
             
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void CargarTiposPrestamo(List<TipoPrestamo> listaTiposPrestamo)
         {
-
             listBox1.DataSource = null;
-            listBox1.DataSource = servicio.TraerTipoPrestamos();
-            
+            listBox1.DataSource = listaTiposPrestamo;
         }
+
+
+
+            private void Form1_Load(object sender, EventArgs e)
+        {
+            CargarTiposPrestamo(this._tipos.TraerTipoPrestamos());
+
+
+             }
+
+
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)

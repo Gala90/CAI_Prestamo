@@ -17,21 +17,31 @@ namespace NLayer.Consola
 
             try
             {
-                PrestamoServicio servicio = new PrestamoServicio();
+                
+                PrestamoNegocio servicio = new PrestamoNegocio();
 
-                int id = servicio.SacarPrestamo("Prestamo Subsidiado", 25.5, 3, 8);
+                int id = servicio.SacarPrestamo("Prestamo Subsidiado", 25.5, 3, 5000);
 
                 Console.WriteLine("Prestamo id: " + id.ToString());
-                /*
-                TipoPrestamoServicio servicio = new TipoPrestamoServicio();
 
-                List<TipoPrestamo> lst = servicio.TraerTipoPrestamos();
+
+
+
+                /*
+                TipoPrestamoNegocio servicio = new TipoPrestamoNegocio();
+
+                List<TipoPrestamo> lst = servicio.TraerTipoPrestamos();                
+
+                
 
                 foreach (TipoPrestamo p in lst)
                 {
+                    
                     Console.WriteLine(p.Linea + " TNA: " + p.TNA);
                 }
+
                 */
+
             }
             catch (Exception ex)
             {

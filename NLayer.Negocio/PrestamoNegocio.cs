@@ -15,10 +15,10 @@ namespace NLayer.Negocio
 
         public PrestamoNegocio()
         {
-            mapper = new PrestamoMapper();            
+            mapper = new PrestamoMapper();
         }
 
-        public Prestamo Traer (int registro)
+        public Prestamo Traer(int registro)
         {
             Prestamo result = mapper.Traer(registro);
             return result;

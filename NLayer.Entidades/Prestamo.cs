@@ -35,7 +35,7 @@ namespace NLayer.Entidades
 
         public double CuotaInteres()
         {
-            return CuotaCapital() * (TNA / 12 / 100);
+            return (((CuotaCapital() * TNA) / 12) / 100);
         }
 
         public double Cuota()
